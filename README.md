@@ -38,6 +38,7 @@ O aplicativo permite ao usuário cadastrar, listar, favoritar e deletar contatos
 **1. Clone o repositório:**
 ```bash
 git clone https://github.com/Augusto240/App-Agenda-Contatos-React-Native
+```
 
 **2. Navegue até a pasta do projeto:**
 ```bash
